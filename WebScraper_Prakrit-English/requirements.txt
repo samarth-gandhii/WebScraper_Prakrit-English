@@ -1,0 +1,6 @@
+# Requirements for this project
+pandas
+playwright
+
+# After installing, install Playwright browser binaries:
+#   playwright install
