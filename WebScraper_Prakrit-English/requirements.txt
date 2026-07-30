@@ -1,6 +1,8 @@
 # Requirements for this project
 pandas
 playwright
+datasets<3.0
+huggingface-hub
 
 # After installing, install Playwright browser binaries:
 #   playwright install
